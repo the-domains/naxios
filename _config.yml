@@ -1,0 +1,29 @@
+name: NAxios
+favicon: null
+layout_spectrum: 0.169278102228418
+typography_spectrum: 0.24647677782922983
+title: The blog of Nathaniel Axios ( forever in beta state)
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8888920363970101
+  lightness: 0.6734188052359968
+  saturation: 0.5809198045171797
+  rhythmicContrast: 0.2906578986439854
+purpose: []
